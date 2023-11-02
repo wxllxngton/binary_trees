@@ -1,4 +1,5 @@
 # binary_trees
+Collaborative project with @wxllxngon
 ## Resources provided for this project are:
 * [Binary Trees](https://en.wikipedia.org/wiki/Binary_tree)
 * [Data Structures and Algorithm](https://en.wikipedia.org/wiki/Binary_tree)
